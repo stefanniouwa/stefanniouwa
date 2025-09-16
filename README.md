@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanniouwa" alt="stefanniouwa" /></a> </p>
 
+- 🤝 Check out my [portfolio](https://stefannio.netlify.app/)!
+
 - 🔭 I’m currently working at [Interlinked Global Advisory](https://www.interlinkedarra.com/)
 
 - 🌱 I’m currently learning **Vector Databases, AWS Cloud Systems, ML Model Deployment**
 
-- 👯 I’m looking to collaborate on [RAG](https://github.com/stefanniouwa/rag-ai-agent)
-
-- 🤝 My recent project [Stefan's Portfolio](https://stefannio.netlify.app/)
+- 👯 I’m looking to collaborate on [RAG Agent](https://github.com/stefanniouwa/rag-ai-agent)
 
 - 👨‍💻 All of my projects are available at [https://stefannio.netlify.app/](https://stefannio.netlify.app/)
 
 - 💬 Ask me about **Traditional ML, Deep Learning Concepts, and Algorithms**
 
-- 📫 How to reach me **stefnio01@gmail.com**
+- 📫 Reach out to me at **stefnio01@gmail.com**
 
 - 📄 Know about my experiences [https://stefannio.netlify.app/files/StefanNio_AI_EngineerResume.pdf](https://stefannio.netlify.app/files/StefanNio_AI_EngineerResume.pdf)
 
