@@ -19,7 +19,7 @@
 
 - 📫 Reach out to me at **stefnio01@gmail.com**
 
-- 📄 Know about my experiences [https://stefannio.netlify.app/files/StefanNio_AI_EngineerResume.pdf](https://stefannio.netlify.app/files/StefanNio_AI_EngineerResume.pdf)
+- 📄 Know about my experiences through my [resume](https://stefannio.netlify.app/files/StefanNio_AI_EngineerResume.pdf)
 
 - ⚡ Fun fact **I love me some Java ☕️ (not the programming language)**
 
